@@ -11,7 +11,7 @@ Bem-vindo ao meu portfólio! 🚀
 - 🔹 SQL Server | MySQL
 - 🔹 Git | GitHub
 
-## Projetos
+<!--## Projetos
 Aqui estão alguns dos meus principais projetos:
 
 ### 📌 [Projeto 1 - Nome do Projeto](https://github.com/seuusuario/projeto1)
@@ -25,11 +25,12 @@ Aqui estão alguns dos meus principais projetos:
 ## Como Acessar Meu Portfólio
 Você pode visualizar meu portfólio online em:  
 🔗 **[seu-username.github.io](https://seu-username.github.io/)**
+-->
 
 ## Contato
-📩 Email: [seuemail@email.com](mailto:seuemail@email.com)  
-🔗 LinkedIn: [linkedin.com/in/seuusuario](https://linkedin.com/in/seuusuario)  
-🐙 GitHub: [github.com/seuusuario](https://github.com/seuusuario)
+📩 Email: [gabriel.lima1468@gmail.com](mailto:gabriel.lima1468@gmail.com)  
+🔗 LinkedIn: [https://www.linkedin.com/in/gabriel-lima-211901193/](https://www.linkedin.com/in/gabriel-lima-211901193/)  
+🐙 GitHub: [https://github.com/gabriel-lima-developer](https://github.com/gabriel-lima-developer)
 
 ---
 💡 Sinta-se à vontade para entrar em contato ou contribuir com feedbacks! 🚀

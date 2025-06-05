@@ -1,16 +1,35 @@
-## Hi there 👋
+# Meu Portfólio
 
-<!--
-**gabriel-lima-developer/gabriel-lima-developer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Bem-vindo ao meu portfólio! 🚀
 
-Here are some ideas to get you started:
+## Sobre Mim
+👋 Olá! Meu nome é Gabriel Lima e sou um **Desenvolvedor Full Stack** com experiência em **C# e ASP.NET**. Tenho paixão por criar aplicações eficientes e escaláveis.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tecnologias
+- 🔹 C# | ASP.NET | Entity Framework
+- 🔹 HTML | CSS | JavaScript
+- 🔹 SQL Server | MySQL
+- 🔹 Git | GitHub
+
+## Projetos
+Aqui estão alguns dos meus principais projetos:
+
+### 📌 [Projeto 1 - Nome do Projeto](https://github.com/seuusuario/projeto1)
+- 🔹 **Descrição:** Breve explicação sobre o projeto.
+- 🔹 **Tecnologias:** C#, ASP.NET, SQL Server
+
+### 📌 [Projeto 2 - Nome do Projeto](https://github.com/seuusuario/projeto2)
+- 🔹 **Descrição:** Outro projeto interessante.
+- 🔹 **Tecnologias:** HTML, CSS, JavaScript
+
+## Como Acessar Meu Portfólio
+Você pode visualizar meu portfólio online em:  
+🔗 **[seu-username.github.io](https://seu-username.github.io/)**
+
+## Contato
+📩 Email: [seuemail@email.com](mailto:seuemail@email.com)  
+🔗 LinkedIn: [linkedin.com/in/seuusuario](https://linkedin.com/in/seuusuario)  
+🐙 GitHub: [github.com/seuusuario](https://github.com/seuusuario)
+
+---
+💡 Sinta-se à vontade para entrar em contato ou contribuir com feedbacks! 🚀

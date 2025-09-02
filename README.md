@@ -7,25 +7,22 @@ Bem-vindo ao meu portfólio! 🚀
 
 ## Tecnologias
 - 🔹 C# | ASP.NET | Entity Framework
-- 🔹 HTML | CSS | JavaScript
-- 🔹 SQL Server | MySQL
+- 🔹 HTML | CSS | JavaScript | React
+- 🔹 SQL Server | MySQL | MongoDB
 - 🔹 Git | GitHub
 
-<!--## Projetos
+## Projetos
 Aqui estão alguns dos meus principais projetos:
 
-### 📌 [Projeto 1 - Nome do Projeto](https://github.com/seuusuario/projeto1)
-- 🔹 **Descrição:** Breve explicação sobre o projeto.
-- 🔹 **Tecnologias:** C#, ASP.NET, SQL Server
+### 📌 [Ola-Mundo](https://github.com/gabriel-lima-developer/ola-mundo)
+- 🔹 **Descrição:** Projeto desenvolvido durante a certificação *React: desenvolvendo em React Router com JavaScript* pela Alura. Explora a criação de rotas estáticas e dinâmicas em uma SPA.  
+- 🔹 **Deploy:** [ola-mundo-steel-alpha.vercel.app](https://ola-mundo-steel-alpha.vercel.app/)  
+- 🔹 **Tecnologias:** React, React Router, JavaScript, Vercel  
 
-### 📌 [Projeto 2 - Nome do Projeto](https://github.com/seuusuario/projeto2)
-- 🔹 **Descrição:** Outro projeto interessante.
-- 🔹 **Tecnologias:** HTML, CSS, JavaScript
-
-## Como Acessar Meu Portfólio
-Você pode visualizar meu portfólio online em:  
-🔗 **[seu-username.github.io](https://seu-username.github.io/)**
--->
+### 📌 [Organo](https://github.com/gabriel-lima-developer/organo)
+- 🔹 **Descrição:** Aplicação em **React** para organizar gostos musicais. Permite criar cards de artistas, cadastrar gêneros personalizados, favoritar e excluir artistas, além de validar ranking (Top 5).  
+- 🔹 **Deploy:** [organo-one-eta.vercel.app](https://organo-one-eta.vercel.app/)  
+- 🔹 **Tecnologias:** React, JavaScript, CSS  
 
 ## Contato
 📩 Email: [gabriel.lima1468@gmail.com](mailto:gabriel.lima1468@gmail.com)  

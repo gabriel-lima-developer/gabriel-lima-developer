@@ -112,9 +112,14 @@ O primeiro módulo do projeto é uma aplicação para gerenciamento de listas de
 
 ## Estatísticas
 
-![Estatísticas do GitHub de Gabriel](https://github-readme-stats.vercel.app/api?username=gabriel-lima-developer\&show_icons=true\&theme=dracula\&include_all_commits=true\&count_private=true)
+<div align="center">
 
-![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel-lima-developer\&layout=compact\&langs_count=7\&theme=dracula)
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabriel-lima-developer&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=21600" />
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel-lima-developer&layout=compact&theme=dracula&hide_border=true&langs_count=8&cache_seconds=21600" />
+
+</div>
+
 
 ---
 
